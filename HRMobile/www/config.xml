@@ -12,6 +12,7 @@
 	<preference name="fullscreen" value="true" />
 	<icon src="icon.png" width="36" height="36"/>
 	<icon src="icons/bb/icon.png" gap:platform="blackberry" />
+	<icon src="icons/bb/icon.png" gap:platform="blackberry" gap:state="hover"/>
 	<icon src="icons/winphone/icon.png" gap:platform="winphone" />
 	<icon src="icons/webos/icon.png" gap:platform="webos" />
 	<icon src="icons/ios/icon.png" gap:platform="ios" width="72" height="72" />
