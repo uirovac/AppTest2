@@ -7,8 +7,8 @@
 	<name>PortalRRHH Movil</name>
 	<description>Portal Autoservicio Recursos Humanos Movil</description>
 	<author href="http://www.ejedigital.cl" email="jcastro@ejedigital">Soporte Ejedigital</author>
-	<preference name="phonegap-version" value="1.5.0" />
-	<preference name="orientation" value="portrait" />
+	<preference name="orientation" value="auto" />
 	<preference name="fullscreen" value="true" />
+	<preference name="disable-cursor" value="true" />
 	<icon src="icon.png" width="50" height="50" />
 </widget>
