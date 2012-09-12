@@ -10,5 +10,5 @@
 	<preference name="orientation" value="auto" />
 	<preference name="fullscreen" value="true" />
 	<preference name="disable-cursor" value="true" />
-	<icon src="icon.gif" width="50" height="50" />
+	<icon src="icon.png" width="50" height="50" />
 </widget>
